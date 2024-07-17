@@ -1,0 +1,10 @@
+export { default as PrivateRoutes } from "./PrivateRoutes";
+export { default as PublicRoutes } from "./PublicRoutes";
+export { default as ErrorMessage } from "./ErrorMessage";
+export { default as NavBar } from "./Navbar";
+export { default as PageHeader } from "./PageHeader";
+export { default as CustomTable } from "./CustomTable";
+export { default as DeleteModal } from "./DeleteModal";
+export { default as ProductDetails } from "./ProductDetails";
+export { default as Pagination } from "./Pagination";
+export { default as Loader } from "./Loader";
